@@ -1,6 +1,6 @@
 # Gaussian Sampler with Scaled Distribution
 
-This Python script generates samples from a scaled Gaussian distribution within a specified interval and visualizes the distribution through a histogram overlaid with an ideal Gaussian distribution curve. It incorporates a custom implementation of the inverse error function (erfinv) for more accurate transformation of uniform samples to Gaussian samples.
+This Python script generates samples from a scaled Gaussian distribution within a specified interval and visualizes the distribution through a histogram overlaid with an ideal Gaussian distribution curve. It incorporates a custom the inverse error function (erfinv) for an accurate transformation of uniform samples to Gaussian samples. We also plot the ideal gaussian distribution between a and b to verify our histogram.
 
 ## How to Use
 
